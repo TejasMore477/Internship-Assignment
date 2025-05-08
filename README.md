@@ -10,8 +10,9 @@ Convert Figma design into a responsive React application
 Implement interactive workflows                   
 Break UI into reusable components                  
 Maintain code quality and documentation                   
-Use Git for version control and deploy the application                               
-## 🚀 Live Demo :
+Use Git for version control and deploy the application     
+
+### 🚀 Live Demo : https://internship-assignment-lake.vercel.app
 
 ## 🛠 Tech Stack
 React.js – Frontend Library                        
