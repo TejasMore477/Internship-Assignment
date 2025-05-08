@@ -112,9 +112,9 @@ Responsive design techniques
 
 🗂 Repository & Deployment
 
-🔗 GitHub Repository: Your GitHub Repo
+🔗 GitHub Repository: [Your GitHub Repo](https://github.com/TejasMore477/Internship-Assignment/tree/main)
 
-🔗 Live Demo: Your Deployed Link
+🔗 Live Demo:  https://internship-assignment-lake.vercel.app
 
 💼 Assignment Deadline: May 9, 2025
 
